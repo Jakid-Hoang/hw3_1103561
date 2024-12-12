@@ -1,3 +1,4 @@
+# jakid 1103561 2024-12-12
 def dfs(adj):
     n = len(adj)
     visited = [False] * n
